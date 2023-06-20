@@ -1,3 +1,6 @@
+This project provides a user-friendly interface for insurance companies to maintain and organize their policy-related data efficiently. It enables insurance agents, administrators, and customers to access and manage policies, premiums, claims, and other policy-related information in a centralized system.
+
+
 How to run Insurance Policy Maintaince Project
 Steps:
 1. Download the  zip file
